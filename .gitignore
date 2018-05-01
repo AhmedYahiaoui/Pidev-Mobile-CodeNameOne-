@@ -9,7 +9,7 @@ dist/
 nbdist/
 .nb-gradle/
 nbactions.xml
-1234
+
 
 
 # End of https://www.gitignore.io/api/netbeans
